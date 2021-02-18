@@ -1,27 +1,13 @@
 ---
-title: Introduction
+title: Donate and Payment
 description: ''
-position: 1
-category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+position: 2
+category: support
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+# donate
+feedback is a greate motivation for me. the best way you can show me some support is donating me. it shows me your interest and make me more energize!
+if you love vue and strapi products and you think it is a better way of developing sites, then you can donate me by crypto.
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
-
-<alert type="success">
-
-Your documentation has been created successfully!
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+for now I can get donate by crypto currencies. my wallets:
+- TRC20 [USDT] : 
