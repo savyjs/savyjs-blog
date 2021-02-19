@@ -6,10 +6,10 @@ category: support
 ---
 
 # donate
-feedback is a greate motivation for me. the best way you can show me some support is donating me. it shows me your interest and make me more energize!
-if you love vue and strapi products and you think it is a better way of developing sites, then you can donate me by crypto.
+feedback is a greate motivation for me and the best way you can show me your support. it shows me your interest and make me more energized!
+if you love vue and strapi products and you think it is a better way of developing, then you can donate me.
 
-for now I can get donate by crypto currencies. my wallets:
+you can donate me with Cryptos Like USDT and BTC. here are my wallets:
 
 ## USDT
 - TRC20 [USDT] Address:
