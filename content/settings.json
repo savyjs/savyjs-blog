@@ -1,9 +1,9 @@
 {
-  "title": "Savy javascript Blog",
+  "title": "Savy Javascript Blog",
   "url": "savyjs.com",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo-v.png",
+    "dark": "/logo-v.png"
   },
   "github": "savyjs/savyjs-blog",
   "twitter": "ehsant_"
